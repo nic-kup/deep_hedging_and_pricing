@@ -1,4 +1,4 @@
-# Deep Hedging and pricing for non continuous payoffs with transaction costs.
+# Deep Hedging and pricing for Noncontinuous payoffs with transaction costs.
 
 This code implements the methodology presented in:
 
